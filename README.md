@@ -2,8 +2,6 @@
 
 ![Team](https://img.shields.io/badge/Team-KTU_MEDSIGHT_AI-blue?style=for-the-badge)
 ![Competition](https://img.shields.io/badge/Competition-Teknofest_2025-red?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Finalist-success?style=for-the-badge)
-![Hardware](https://img.shields.io/badge/Training-RTX_3090_24GB-green?style=for-the-badge)
 > **Institution:** Karadeniz Technical University (KTU)
 
 ## 📌 Project Overview
