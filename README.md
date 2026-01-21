@@ -48,5 +48,7 @@ AI_in_Health_Teknofest2025/
 ├── web_interface/       # Deployment code for the diagnostic UI
 ├── reports/             # Project PDF and performance tables
 └── README.md
-[220325_last.pdf](https://github.com/user-attachments/files/24773644/220325_last.pdf)
+
+[220325_last.pdf](https://github.com/user-attachments/files/24773663/220325_last.pdf)
+
 
