@@ -4,8 +4,6 @@
 ![Competition](https://img.shields.io/badge/Competition-Teknofest_2025-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Finalist-success?style=for-the-badge)
 ![Hardware](https://img.shields.io/badge/Training-RTX_3090_24GB-green?style=for-the-badge)
-
-> **Team ID:** 607753 | **Application ID:** 3136591  
 > **Institution:** Karadeniz Technical University (KTU)
 
 ## 📌 Project Overview
