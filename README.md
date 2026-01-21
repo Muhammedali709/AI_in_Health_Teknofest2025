@@ -62,5 +62,7 @@ For a deep dive into our architectural decisions, literature review, and full ex
   * Hybrid Architecture Diagrams (YOLO + Attention U-Net)
   * Detailed Error Analysis & GAN Implementation
 
-
+## ⚠️ Note on Model Weights
+Due to GitHub's file size limitations, the trained model weights (`.pt`, `.keras`, `.h5` files) are not included in this repository. 
+* **Training Hardware:** Models were trained on an NVIDIA RTX 3090 (24GB VRAM) at the KTU AI Club Laboratory.
 
