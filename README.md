@@ -48,7 +48,7 @@ AI_in_Health_Teknofest2025/
 ├── web_interface/       # Deployment code for the diagnostic UI
 ├── reports/             # Project PDF and performance tables
 └── README.md
-
+```
 ## 📄 Official Project Report
 For a deep dive into our architectural decisions, literature review, and full experimental results, please refer to our official submission report:
 
