@@ -49,6 +49,18 @@ AI_in_Health_Teknofest2025/
 ├── reports/             # Project PDF and performance tables
 └── README.md
 
-[220325_last.pdf](https://github.com/user-attachments/files/24773663/220325_last.pdf)
+## 📄 Official Project Report
+For a deep dive into our architectural decisions, literature review, and full experimental results, please refer to our official submission report:
+
+👉 [**View Full Project Presentation Report (PDF)**][220325_last.pdf](https://github.com/user-attachments/files/24773715/220325_last.pdf)
+
+
+* **Document:** Teknofest 2025 AI in Health - Project Presentation Report
+* **Language:** Turkish
+* **Contents:**
+  * Comprehensive Literature Review (YOLO, ResNet, ViT comparison)
+  * Hybrid Architecture Diagrams (YOLO + Attention U-Net)
+  * Detailed Error Analysis & GAN Implementation
+
 
 
